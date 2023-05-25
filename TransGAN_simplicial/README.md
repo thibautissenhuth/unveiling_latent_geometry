@@ -26,4 +26,3 @@ python exps/cifar_test_simplicial_truncation.py
 
 ## Acknowledgement
 Codebase from [TransGAN](https://github.com/VITA-Group/TransGAN),[AutoGAN](https://github.com/VITA-Group/AutoGAN), [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-```
