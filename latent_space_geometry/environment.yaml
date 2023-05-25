@@ -1,0 +1,19 @@
+name: optiGans
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=10.2
+  - pytorch=1.7.0
+  - torchvision=0.8.1
+  - numpy=1.19.2
+  - pip:
+    - scipy==1.7.0
+    - scikit-learn==1.0.2
+    - opencv-python==4.1.2.30
+    - einops==0.3.0
+    - matplotlib
+    - prdc
+    
